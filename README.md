@@ -1,8 +1,8 @@
 # Desafio de Projeto sobre git/github da DIO:flashlight:
-<center>**(Repositório criado para o Desafio de Projeto.)** <center>
+**<center>(Repositório criado para o Desafio de Projeto.)</center>**
 
 
-​    ##Certificados obitdos  no bootcamp Spread Java Developer :congratulations:
+   ## Certificados obitdos  no bootcamp Spread Java Developer :congratulations:
 
 - Bem-vindo â DIO
 - Boas-vindas ao Bootcamp Spread Java Developer
