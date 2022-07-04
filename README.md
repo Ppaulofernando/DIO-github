@@ -9,6 +9,7 @@
 - Lógica de programação essencial
 - Estrutura de dados e algoritmos
 - Introdução ao Git e ao GitHub
+- Boas-vindas ao Bootcamp Cognizant Java Developer
 - Criando seu Primeiro Repositório no GitHub
 - Dominando  IDEs Java
 - Variáveis , Tipos de Dados e Operadores Matemáticos em Java
