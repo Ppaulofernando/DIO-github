@@ -16,6 +16,7 @@
 - Lógica Condicional e Controle de Fluxo em Java
 - Estrutura de Repetição e Arras em Java
 - Reforçando o conceito de laços em Java
+- Resolvendo Desafios de Códigos em Java
 - Estrutura de dados em Java
 - Trabalhando com Collections Java
 - Implementando Collections e Streams com Java
