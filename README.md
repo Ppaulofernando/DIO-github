@@ -9,6 +9,18 @@
 - Lógica de programação essencial
 - Estrutura de dados e algoritmos
 - Introdução ao Git e ao GitHub
+- Criando seu Primeiro Repositório no GitHub
+- Dominando  IDEs Java
+- Variáveis , Tipos de Dados e Operadores Matemáticos em Java
+- Lógica Condicional e Controle de Fluxo em Java
+- Estrutura de Repetição e Arras em Java
+- Reforçando o conceito de laços em Java
+- Estrutura de dados em Java
+- Trabalhando com Collections Java
+- Implementando Collections e Streams com Java
+- Praticando Orientação a Objetos com Java
+
+
 
 
 
